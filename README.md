@@ -1,8 +1,8 @@
-Header
+
 
 ### About me
 
-I'm Node.js developer with a passion for cryptocurrency, energy and trading.
+I'm Full-Stack JS developer with a passion for cryptocurrency, energy and trading.
 
 ### Languages and Tolls
 
@@ -18,5 +18,7 @@ I'm Node.js developer with a passion for cryptocurrency, energy and trading.
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![MySql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![EsLint](	https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Sequelize](	https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-Follow me
+Follow me on GitHub
